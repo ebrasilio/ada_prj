@@ -8,9 +8,7 @@ Install gitlens on VSC
 
 File status on local repository
 
-Unmodified --> edit the file (only save) --> Modified
-
-Modified   --> git add                   --> Staged
-
-Staged     --> git commit                --> Unmodified
+- Unmodified --> edit the file (only save) --> Modified
+- Modified   --> git add                   --> Staged
+- Staged     --> git commit                --> Unmodified
 
