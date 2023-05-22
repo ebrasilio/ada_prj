@@ -12,5 +12,6 @@ File status on local repository
 - Modified   --> git add                   --> Staged
 - Staged     --> git commit                --> Unmodified
 <br>
-- git restore --staged <strong>file name</strong>  -->   from staged to modified
-- git restore <file name>            --> from modeified to unmodified
+
+- git restore --staged <strong> file name </strong>  -->   from staged to modified <br>
+- git restore <strong> file name </strong>            --> from modeified to unmodified
